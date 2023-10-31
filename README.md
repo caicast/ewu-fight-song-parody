@@ -4,8 +4,8 @@
 
 ## Citations
 
-* [Open Props] (https://open-props.style/)
-* [Youtube] (https://www.youtube.com/watch?v=h1BIRNVdugw)
+* [Open Props](https://open-props.style/)
+* [Youtube](https://www.youtube.com/watch?v=h1BIRNVdugw)
 
 ## Lyrics
 Go, Eagles, Go
